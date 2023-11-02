@@ -1,4 +1,4 @@
-#include "binary_trees.h"
+#include "trees_library.h"
 
 unsigned char is_leaf(const binary_tree_t *node);
 size_t depth(const binary_tree_t *tree);

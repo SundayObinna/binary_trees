@@ -1,4 +1,4 @@
-#include "binary_trees.h"
+#include "trees_library.h"
 
 /**
  * binary_tree_nodes - Counts the nodes with at least 1 child in a binary tree.
